@@ -1,0 +1,3 @@
+/Users/sinjunjang/school/graphics/lab01/build/CMakeFiles/lab01.dir
+/Users/sinjunjang/school/graphics/lab01/build/CMakeFiles/ALL_BUILD.dir
+/Users/sinjunjang/school/graphics/lab01/build/CMakeFiles/ZERO_CHECK.dir
